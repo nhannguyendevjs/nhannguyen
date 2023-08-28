@@ -6,7 +6,13 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "build_analyze": "ng build --stats-json",
+    "analyze": "npm run build_stats-json & webpack-bundle-analyzer dist/fsd-fe/stats.json",
+    "dev": "node --max_old_space_size=10240 ./node_modules/@angular/cli/bin/ng serve",
+    "build_dev": "node --max_old_space_size=10240 ./node_modules/@angular/cli/bin/ng build --base-href / --configuration development",
+    "build_prod": "node --max_old_space_size=10240 ./node_modules/@angular/cli/bin/ng build --base-href / --configuration production",
+    "build_vercel": "node --max_old_space_size=10240 ./node_modules/@angular/cli/bin/ng build --base-href / --configuration vercel"
   },
   "private": true,
   "dependencies": {

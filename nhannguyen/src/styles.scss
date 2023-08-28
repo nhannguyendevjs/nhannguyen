@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+// Tailwindcss
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Pages
+@import './styles/pages/home';
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    font-family: Inter var, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    letter-spacing: normal;
+}
+
+body {
+    margin: 0;
+}

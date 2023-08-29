@@ -4,5 +4,5 @@ ng add @angular/pwa
 
 # NPM Packages
 npm i lodash luxon animate.css
-npm i -D @angular-builders/custom-webpack @types/lodash @types/luxon compression-webpack-plugin webpack-bundle-analyzer zlib tailwindcss postcss autoprefixer
+npm i -D @angular-builders/custom-webpack @types/lodash @types/luxon compression-webpack-plugin webpack-bundle-analyzer zlib tailwindcss postcss autoprefixer tailwind-merge
 npx tailwindcss init

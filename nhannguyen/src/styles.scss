@@ -1,11 +1,27 @@
-// Tailwindcss
+// Libraries
+@import '../node_modules/animate.css/animate.min.css';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+// Root
+@import './styles/variables';
+@import './styles/mixins';
+@import './styles/common';
+
+// Scrollbar
+@import './styles/scrollbar/scrollbar';
+
 // Pages
 @import './styles/pages/home';
 
+// App
 @import './styles/app';
 
-@import './styles/mobile';
+// Screens
+@import './styles/screens/mobile';
+@import './styles/screens/extra-small';
+@import './styles/screens/small-tablet';
+@import './styles/screens/tablet-laptop';
+@import './styles/screens/desktop';
+@import './styles/screens/extra-large';

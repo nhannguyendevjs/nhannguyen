@@ -17,7 +17,7 @@ My greatest passion in life is using my technical knowhow to benefit other peopl
 
 ## Certificates
 - [Hackerrank - Angular (Intermediate) Certificate](https://www.hackerrank.com/certificates/e957590e6098)
-- [Angular Training - Angular Certification Level 3]() 
+- [Angular Training - Angular Certification Level 3](https://interstate21.com/certificate/?code=3L12N3J)
 
 ## Hobbies
 - Reading books

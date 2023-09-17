@@ -1,26 +1,69 @@
-# Nhan Nguyen
-I'm a web developer from Vietnam, and I have over 5 years of experience in the Web Front-end Developer, special Angular framework.
+# Hi everyone :wave:
 
-I am eager to be challenged in order to grow and further improve my IT skills.
+I'm Nhan, a software engineer from Vietnam, currently living in Ho Chi Minh city, Vietnam.
 
-My greatest passion in life is using my technical knowhow to benefit other people and organizations.
 
-## Skills
-- JavaScript
-- HTML
-- CSS
+### What I do
+
+I'm a web developer, and I am really passionate about doing web development.
+
+
+### Things I code with
+
+<img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
+<img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?logo=docker&logoColor=white&style=for-the-badge" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-BB2BF7?logo=vite&logoColor=white&style=for-the-badge" />
+<img alt="Bun" src="https://img.shields.io/badge/Bun-F3E8D8?logo=bun&logoColor=white&style=for-the-badge" />
+<img alt="Nx" src="https://img.shields.io/badge/Nx-132E52?logo=nx&logoColor=white&style=for-the-badge" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img alt="css3" src="https://img.shields.io/badge/CSS3-2F4BD8?logo=css3&logoColor=white&style=for-the-badge" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+<img alt="React" src="https://img.shields.io/badge/React-45b8d8?logo=react&logoColor=white&style=for-the-badge" />
+<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
+<img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-43853d?logo=Node.js&logoColor=white&style=for-the-badge" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?logo=mongodb&logoColor=white&style=for-the-badge" />
+
+
+## My skills 📜
+
+### Web technologies
+
+- JavaScript ([Hackerrank JavaScript Certified](https://www.hackerrank.com/certificates/60f698cad89a))
 - TypeScript
-- MEAN stack
-- Vercel
-- Docker
-- Others: Luxon, Lodash, Zod, Leaflet, ...
+- HTML ([LinkedIn Assesments Certified](https://www.linkedin.com/skill-assessments/HTML/report/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_skills_details%3BoRgA0Xe4RtSa9ML92eLX3Q%3D%3D))
+- CSS ([Hackerrank CSS Certified](https://www.hackerrank.com/certificates/09e2b4f33366))
+- SCSS
+- Angular ([Angular Training Level 3 Certified](https://interstate21.com/certificate/?code=3L12N3J))
+- React
+- NodeJS ([Hackerrank NodeJS Certified](https://www.hackerrank.com/certificates/6d4a5c987a45?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate))
 
-## Certificates
-- [Hackerrank - Angular (Intermediate) Certificate](https://www.hackerrank.com/certificates/e957590e6098)
-- [Angular Training - Angular Certification Level 3](https://interstate21.com/certificate/?code=3L12N3J)
+### Application Development
 
-## Hobbies
-- Reading books
-- Listening to music
-- Traveling
-- GYM
+- Microsoft Excel Add-ins
+- Microsoft Outlook Add-ins
+
+### Languages 🌐
+
+| Language   | Proficiency     |
+| ---------- | --------------- |
+| English    | Basic           |
+| Vietnamese | Native language |
+
+### Software
+
+![Windows](https://img.shields.io/badge/Windows-45b8d8?logo=Windows&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+
+## What I'm currently learning 📚
+
+- English fluency
+- Fullstack JavaScript developer
+- DevOps
+- Domain-Driven Design ([InfoQ Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/))
+- Design Patterns ([Refactoring Guru](https://refactoring.guru/design-patterns))
+

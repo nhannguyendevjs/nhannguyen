@@ -2,9 +2,11 @@
 
 I'm Nhan, a software engineer from Vietnam, currently living in Ho Chi Minh city, Vietnam.
 
+
 ### What I do
 
-I'm a web developer, and I am really passionate about doing web development.
+I'm a web developer, and I am really passionate about leaning web development.
+
 
 ### Things I code with
 
@@ -24,7 +26,9 @@ I'm a web developer, and I am really passionate about doing web development.
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d?logo=Node.js&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?logo=mongodb&logoColor=white&style=for-the-badge)
 
+
 ## My skills 📜
+
 
 ### Web technologies
 
@@ -37,10 +41,12 @@ I'm a web developer, and I am really passionate about doing web development.
 - React
 - NodeJS ([Hackerrank NodeJS Certified](https://www.hackerrank.com/certificates/6d4a5c987a45?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate))
 
+
 ### Application Development
 
 - Microsoft Excel Add-ins
 - Microsoft Outlook Add-ins
+
 
 ### Languages 🌐
 
@@ -49,11 +55,13 @@ I'm a web developer, and I am really passionate about doing web development.
 | English    | Basic           |
 | Vietnamese | Native language |
 
-### Software
+
+### Softwares
 
 ![Windows](https://img.shields.io/badge/Windows-45b8d8?logo=Windows&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
 
 ## What I'm currently learning 📚
 
@@ -62,3 +70,4 @@ I'm a web developer, and I am really passionate about doing web development.
 - DevOps
 - Domain-Driven Design ([InfoQ Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/))
 - Design Patterns ([Refactoring Guru](https://refactoring.guru/design-patterns))
+

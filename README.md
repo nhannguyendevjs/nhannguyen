@@ -65,9 +65,9 @@ I'm a web developer, and I am really passionate about leaning web development.
 
 ## What I'm currently learning 📚
 
-- English fluency
+- Speak English fluently
 - Fullstack JavaScript developer
-- DevOps
+- DevOps engineer
 - Domain-Driven Design ([InfoQ Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/))
 - Design Patterns ([Refactoring Guru](https://refactoring.guru/design-patterns))
 

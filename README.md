@@ -34,11 +34,11 @@ I'm a web developer, and I am really passionate about leaning web development.
 
 - JavaScript ([Hackerrank JavaScript Certified](https://www.hackerrank.com/certificates/60f698cad89a))
 - TypeScript
-- HTML ([LinkedIn Assesments Certified](https://www.linkedin.com/skill-assessments/HTML/report/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_skills_details%3BoRgA0Xe4RtSa9ML92eLX3Q%3D%3D))
+- HTML ([LinkedIn Assessment Certified](https://www.linkedin.com/skill-assessments/HTML/report/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_skills_details%3BoRgA0Xe4RtSa9ML92eLX3Q%3D%3D))
 - CSS ([Hackerrank CSS Certified](https://www.hackerrank.com/certificates/09e2b4f33366))
 - SCSS
 - Angular ([Angular Training Level 3 Certified](https://interstate21.com/certificate/?code=3L12N3J))
-- React
+- React ([React Certification Level 1 Certified](https://interstate21.com/certificate/?code=4J034XU))
 - NodeJS ([Hackerrank NodeJS Certified](https://www.hackerrank.com/certificates/6d4a5c987a45?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate))
 
 

@@ -1,11 +1,11 @@
 # Hi everyone :wave:
 
-I'm Nhan, a software engineer from Vietnam, currently living in Ho Chi Minh city, Vietnam.
+I'm Nhan, a software engineer from Vietnam, currently living in Ho Chi Minh City, Vietnam.
 
 
 ### What I do
 
-I'm a web developer, and I am really passionate about leaning web development.
+I'm a web developer, and I am really passionate about learning web development.
 
 
 ### Things I code with
@@ -67,7 +67,7 @@ I'm a web developer, and I am really passionate about leaning web development.
 
 - Speak English fluently
 - Fullstack JavaScript developer
-- DevOps engineer
+- DevOps Engineer
 - Domain-Driven Design ([InfoQ Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/))
 - Design Patterns ([Refactoring Guru](https://refactoring.guru/design-patterns))
 

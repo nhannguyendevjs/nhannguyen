@@ -1,6 +1,3 @@
----
----
-
 # Hi everyone 👋
 
 I'm Nhan, a software engineer from Vietnam, currently living in Ho Chi Minh City, Vietnam.

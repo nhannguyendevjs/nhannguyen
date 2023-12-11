@@ -23,6 +23,7 @@ I'm a web developer, and I am really passionate about learning web development.
 ![CSS3](https://img.shields.io/badge/CSS3-2F4BD8?logo=css3&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-45b8d8?logo=react&logoColor=white&style=for-the-badge)
+![Astro](https://img.shields.io/badge/Astro-F3E8D8?logo=astro&logoColor=black&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d?logo=Node.js&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?logo=mongodb&logoColor=white&style=for-the-badge)
